@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Beach",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269556452700300/beach.png?ex=655126cf&is=653eb1cf&hm=8c0cb6e8b8c30b5d03a609f6480e8638adf0bb9f11eb4ed8a7ec85f9bf67bb10&",
+    "desc": "Sunny environment with soft sand, clear blue water, and seashells scattered along the shore"
+  },
+  {
+    "id": "2",
+    "name": "Forest",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269557710983248/forest.png?ex=655126cf&is=653eb1cf&hm=ac5c7e09b6159f7f2b0a04d435cab9a243458533a0d2a663ff74db6c8ea4a430&",
+    "desc": "Dense trees, lush green ferns, and a variety of wildlife"
+  },
+  {
+    "id": "3",
+    "name": "Meadow",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269558071697570/Meadow.png?ex=655126d0&is=653eb1d0&hm=4c87b3530e9b16eb5e7c5a5c676c665790ecadd93e145f70cdd4d8284e4f193a&",
+    "desc": "Open grassy area with wildflowers, butterflies, and other insects"
+  },
+  {
+    "id": "4",
+    "name": "Mountain",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269558428217394/mountain.png?ex=655126d0&is=653eb1d0&hm=b5431962cddecadd6e47ed77ad3487af55143dbf6c433a1f2782cb82291110bf&",
+    "desc": "Rugged terrain with tall peaks, deep valleys, and waterfalls"
+  },
+  {
+    "id": "5",
+    "name": "River",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269556096180234/river.png?ex=655126cf&is=653eb1cf&hm=5505fdf02d613fd974f3535a5e65ca80fe0b6c37e8547501b10ada2dc07a3aa8&",
+    "desc": "Flowing water with smooth stones, fish, and other aquatic life"
+  },
+  {
+    "id": "6",
+    "name": "Ocean",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269558772142291/ocean.png?ex=655126d0&is=653eb1d0&hm=c76c183f0d8f5ccaf4b9af89359b890e733e0de41417e59bd1d2a57ca11a75e8&",
+    "desc": "Vast expanse of water with waves, dolphins, whales, and other marine life"
+  },
+  {
+    "id": "7",
+    "name": "Rainforest",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269559279657070/rainforest.png?ex=655126d0&is=653eb1d0&hm=19073bf6bf39cd78f2c58e41df4d42627ff6d1316ad64baec13f1012479cdad6&",
+    "desc": "Vibrant green plants, exotic animals, and waterfalls"
+  },
+  {
+    "id": "8",
+    "name": "Snow-covered landscape",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269610278203422/snow-covered_landscape.png?ex=655126dc&is=653eb1dc&hm=96da0119e907e8ba1723d71eba52e8264bf617f5a40274f26d40e2fb8d6ef379&",
+    "desc": "Sparkling white snow, frozen lakes and rivers, and snow-capped mountains"
+  },
+  {
+    "id": "9",
+    "name": "Desert",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269557073453266/desert.png?ex=655126cf&is=653eb1cf&hm=9a55e9dfe0df177a0076d4578f7c52a39df8782f7afccaf34066abc6da98e061&",
+    "desc": "Sandy dunes, cacti, and other desert plants and animals"
+  },
+  {
+    "id": "10",
+    "name": "Farm",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269557379641375/farm.png?ex=655126cf&is=653eb1cf&hm=06636798e6a37727c6bd3cf81dc0314cd293827176c8f47ff885bfc5064f95e4&",
+    "desc": "Rolling hills, fields of crops, barn animals, and fresh air"
+  },
+  {
+    "id": "11",
+    "name": "City",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269556737904730/city.png?ex=655126cf&is=653eb1cf&hm=a3ed5eb305fe192d974644b39bbbbe97ad63552ee8b785e99b05e4aa1dd5ffb0&",
+    "desc": "Tall buildings, busy streets, and a variety of cultures and people"
+  },
+  {
+    "id": "12",
+    "name": "Space",
+    "imgUrl": "https://cdn.discordapp.com/attachments/1168268756028498141/1168269610672476211/space.png?ex=655126dc&is=653eb1dc&hm=525cb334c34528d3a9b25f9a798f4bfe33b5363da76bc5649ee2f49b6c10134e&",
+    "desc": "Stars, planets, and other celestial bodies"
+  }
+]
