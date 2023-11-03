@@ -5,6 +5,7 @@ import Header from "./components/Header";
 import Home from "./pages/Home";
 import Environment from "./pages/Environment";
 import Colleagues from "./pages/Colleagues";
+import Story from "./pages/Story";
 
 function App() {
   const Layout = () => {
@@ -26,6 +27,7 @@ function App() {
         { path: "/", element: <Home /> },
         { path: "/select-environment", element: <Environment /> },
         { path: "/colleagues", element: <Colleagues /> },
+        { path: "/story", element: <Story /> },
       ],
     },
   ]);
