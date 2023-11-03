@@ -17,6 +17,7 @@ import { useRef } from "react";
 import { useProfileStore } from "@/store/Profile";
 import { useNavigate } from "react-router-dom";
 
+
 const Home = () => {
   const nameRef = useRef<HTMLInputElement>(null);
   const ageRef = useRef<HTMLInputElement>(null);
@@ -61,7 +62,7 @@ const Home = () => {
                         e.preventDefault();
 
                         if(!nameRef.current?.value || !ageRef.current?.value || ![friendsRef.current?.value.split(", ")] || ![familyRef.current?.value.split(", ")]) return
-                        setProfile(nameRef.current?.value, Number(ageRef.current?.value), [friendsRef.current?.value.split(", ")] as any, [familyRef.current?.value.split(", ")] as any)
+                        setProfile(nameRef.current?.value, Number(ageRef.current?.value), friendsRef.current?.value.split(", ") as any, familyRef.current?.value.split(", ") as any)
 
                         navigate("/select-environment")
                         
