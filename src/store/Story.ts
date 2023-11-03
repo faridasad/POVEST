@@ -1,12 +1,30 @@
-import { create } from 'zustand'
+import { create } from "zustand";
+
+interface BookPageProps {
+  id: string;
+  page: number;
+  title: string;
+  content: string;
+  img_base64?: string
+}
+
+interface BookProps {
+  id: string;
+  title: string;
+  pages: BookPageProps[];
+  img_base64?: string
+}
 
 interface StoryState {
-  bears: number
-  increase: (by: number) => void
+  book: BookProps;
+  setStory: (book: BookProps) => void;
 }
 
 export const useStoryStore = create<StoryState>()((set) => ({
-  bears: 0,
-  increase: (by) => set((state) => ({ bears: state.bears + by })),
-}))
-
+  book: {} as BookProps,
+  setStory: (book) => {
+    set(() => ({
+      book: book,
+    }));
+  },
+}));

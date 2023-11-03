@@ -13,6 +13,7 @@ interface ProfileState {
     family: []
   ) => void;
   setEnvironment: (env: string) => void;
+
 }
 
 export const useProfileStore = create<ProfileState>()((set) => ({
